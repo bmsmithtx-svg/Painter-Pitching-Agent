@@ -1,0 +1,16 @@
+{
+  "name": "Painter Pitching Agent",
+  "short_name": "Pitching Agent",
+  "description": "A baseball pitching tracker for bullpen and game sessions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ea",
+  "theme_color": "#0f3d2e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
