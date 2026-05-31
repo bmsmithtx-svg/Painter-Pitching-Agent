@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Painter Pitching Agent",
-  description: "A local pitching tracker for bullpen and game sessions.",
+  description: "A local pitching tracker for bullpen sessions.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
